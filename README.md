@@ -1,5 +1,4 @@
 # CDSSE
-![Header](./CDSSEDATE.jpg)
 
 ![Header](./CDSSE.jpg)
 
