@@ -11,7 +11,7 @@ For more information, please consult our paper [here](https://doi.org/10.1016/j.
 
 
 ## Access
-If you would like to download the CDSSE dataset, please send email to xjwu_cs@fudan.edu.cn. We will send you the dataset download link.
+If you would like to download the CDSSE dataset, please send email to lhe@cs.ecnu.edu.cn and xjwu_cs@fudan.edu.cn. We will send you the dataset download link.
 
 
 
