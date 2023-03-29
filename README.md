@@ -9,12 +9,21 @@ To obtain the download link, please send email to xjwu_cs@fudan.edu.cn. We will 
 
 
 @article{wu2023drfn,
+
   title={DRFN: A unified framework for complex document layout analysis},
+  
   author={Wu, Xingjiao and Ma, Tianlong and Du, Xiangcheng and Hu, Ziling and Yang, Jing and He, Liang},
+  
   journal={Information Processing \& Management},
+  
   volume={60},
+  
   number={3},
+  
   pages={103339},
+  
   year={2023},
+  
   publisher={Elsevier}
+  
 }
